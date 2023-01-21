@@ -1,0 +1,4 @@
+{
+    "menu_jukebox_freebird" : "Free Bird",
+    "menu_jukebox_screen_freebird" : "Free Bird"
+}

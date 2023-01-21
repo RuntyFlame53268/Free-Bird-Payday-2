@@ -1,0 +1,9 @@
+<table name="Free Bird">
+    <Localization directory="loc" default="en.txt"/>
+    <HeistMusic id="freebird" directory="sounds">
+        <event name="setup" start_source="stealth_intro.ogg" source="stealth.ogg"/>
+		<event name="control" start_source="control_intro.ogg" source="control.ogg"/>
+        <event name="anticipation" start_source="anticipation_intro.ogg" source="anticipation.ogg"/>
+        <event name="assault" start_source="assault_intro.ogg" source="assault.ogg"/>
+    </HeistMusic>
+</table>
